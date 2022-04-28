@@ -1,0 +1,162 @@
+[07-Aug-2021 01:51:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:52:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:52:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:52:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:52:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:52:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:53:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:53:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[07-Aug-2021 01:53:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/expertga/public_html/betatestfront/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/betatestfront/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/betatestfront/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/betatestfront/index.php(81): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/betatestfront/config/fonction.php on line 10
+[17-Aug-2021 20:16:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[17-Aug-2021 20:17:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[17-Aug-2021 20:17:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[20-Aug-2021 09:56:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[20-Aug-2021 10:07:37 UTC] PHP Warning:  PDOStatement::execute(): MySQL server has gone away in /home/expertga/public_html/include/top.php on line 50
+[20-Aug-2021 10:07:37 UTC] PHP Warning:  PDOStatement::execute(): Error reading result set's header in /home/expertga/public_html/include/top.php on line 50
+[20-Aug-2021 10:07:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in /home/expertga/public_html/include/top.php:50
+Stack trace:
+#0 /home/expertga/public_html/include/top.php(50): PDOStatement->execute()
+#1 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#2 {main}
+  thrown in /home/expertga/public_html/include/top.php on line 50
+[20-Aug-2021 10:08:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[20-Aug-2021 10:16:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[20-Aug-2021 10:16:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection refused in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[20-Aug-2021 10:16:59 UTC] PHP Fatal error:  Uncaught PDOException: PDO::__construct(): MySQL server has gone away in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+
+Next PDOException: SQLSTATE[HY000] [2006] MySQL server has gone away in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[11-Sep-2021 15:21:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[11-Sep-2021 15:21:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[11-Sep-2021 15:21:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
+[11-Sep-2021 15:23:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/expertga/public_html/config/fonction.php:10
+Stack trace:
+#0 /home/expertga/public_html/config/fonction.php(10): PDO->__construct('mysql:host=loca...', 'expertga_admin', 'Babnet@20202099...')
+#1 /home/expertga/public_html/include/top.php(49): Bdd::connectBdd()
+#2 /home/expertga/public_html/index.php(91): include('/home/expertga/...')
+#3 {main}
+  thrown in /home/expertga/public_html/config/fonction.php on line 10
