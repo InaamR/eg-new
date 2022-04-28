@@ -2294,7 +2294,7 @@ body.offcanvas-open {
 /* Product Style */
 .product {
   position: relative;
-  border-width: 2px;
+  border-width: 1px;
   background: #fff;
   border-color: #e1e1e1;
   border-style: solid;
@@ -2377,10 +2377,10 @@ body.offcanvas-open {
           justify-content: center;
   height: 60px;
   background: white;
-  border: 2px solid #e1e1e1;
+  border: 1px solid #e1e1e1;
   border-top: none;
   z-index: 11;
-  width: calc(100% + 5px);
+  width: calc(100% + 2px);
 }
 .product .actions .action {
   display: -webkit-box;
@@ -5078,6 +5078,8 @@ body.offcanvas-open {
 }
 .single-feature-content .feature-image img {
   max-width: 100%;
+  padding-top: 105px;
+  padding-bottom: 107px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .single-feature-content .feature-image img {
@@ -5086,13 +5088,12 @@ body.offcanvas-open {
 }
 .single-feature-content .top-content {
   position: absolute;
-  top: 50px;
+  top: 10px;
   text-align: center;
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   width: 100%;
-  color: #ffffff !important;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (max-width: 767px) {
   .single-feature-content .top-content {
@@ -5161,7 +5162,7 @@ body.offcanvas-open {
 }
 .single-feature-content .bottom-content {
   position: absolute;
-  bottom: 60px;
+  bottom: 10px;
   text-align: center;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -5175,11 +5176,11 @@ body.offcanvas-open {
 }
 .single-feature-content .bottom-content .deal-timing .cdown {
   display: inline-block;
-  margin-right: 20px;
+  margin-right: 10px;
 }
 .single-feature-content .bottom-content .deal-timing .cdown .cdown-1 {
-  width: 87px;
-  height: 87px;
+  width: 100px;
+  height: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -5199,6 +5200,7 @@ body.offcanvas-open {
   color: #000000;
   font-weight: 600;
   position: relative;
+  background-color: #ffffff;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (max-width: 767px) {
   .single-feature-content .bottom-content .deal-timing .cdown .cdown-1 {
@@ -5227,7 +5229,7 @@ body.offcanvas-open {
           transform: translate(-50%, -50%);
 }
 .single-feature-content .bottom-content .deal-timing .cdown p {
-  margin: 8px 0 25px 0;
+  /*margin: 8px 0 25px 0;*/
   font-size: 16px;
   color: #808080;
   font-weight: 600;
@@ -5420,6 +5422,10 @@ body.offcanvas-open {
           align-items: center;
   border-radius: 0px 0px 0px 0px;
   font-weight: 600;
+}
+.single-feature-content .bottom-content .deal-timing{
+
+margin-bottom: 50px;
 }
 .feature-right-content .content-side .deal-timing .cdown {
   display: inline-block;

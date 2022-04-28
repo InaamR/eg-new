@@ -21,7 +21,6 @@
 			?>
 			<div class="col-xl-6 col-lg-6 mb-md-35px mb-lm-35px">
 				<div class="single-feature-content">
-				<div id="overlay_promo"></div>
 
 					<div class="feature-image">
 					<?php
@@ -49,8 +48,7 @@
 						<div class="deal-timing">
 							<div data-countdown="<?php echo $produit_promo['eg_produit_date_fin_promo']; ?>"></div>
 						</div>
-						<a href="single-product-variable.html" class="btn btn-primary  m-auto"> Shop
-							Now </a>
+						<a href="single-product-variable.html" class="btn btn-primary  m-auto">Découvrir</a>
 					</div>
 					<div class="top-content">
 						<h4 class="title"><a href="single-product.html"><?php echo $produit_promo['eg_produit_nom']; ?> </a></h4>
