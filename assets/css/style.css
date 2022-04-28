@@ -5078,8 +5078,7 @@ body.offcanvas-open {
 }
 .single-feature-content .feature-image img {
   max-width: 100%;
-  padding-top: 105px;
-  padding-bottom: 107px;
+  
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (max-width: 767px) {
   .single-feature-content .feature-image img {
@@ -5280,6 +5279,8 @@ body.offcanvas-open {
 .feature-right-content .image-side {
   width: 270px;
   position: relative;
+  height: 380px;
+  padding: 50px 0 50px 0;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px), only screen and (max-width: 575px) {
   .feature-right-content .image-side {
@@ -5408,7 +5409,7 @@ body.offcanvas-open {
   display: flex;
   background-color: #f7bb11;
   color: #fff;
-  width: 200px;
+  width: 250px;
   height: 30px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
