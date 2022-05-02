@@ -98,18 +98,9 @@
             <div class="container">
                 <div class="brand-slider swiper-container">
                     <div class="swiper-wrapper align-items-center">
-                        <div class="swiper-slide brand-slider-item text-center">
-                            <a href="#"><img class=" img-fluid" src="assets/images/partner/1.png" alt="" /></a>
-                        </div>
-                        <div class="swiper-slide brand-slider-item text-center">
-                            <a href="#"><img class=" img-fluid" src="assets/images/partner/2.png" alt="" /></a>
-                        </div>
-                        <div class="swiper-slide brand-slider-item text-center">
-                            <a href="#"><img class=" img-fluid" src="assets/images/partner/3.png" alt="" /></a>
-                        </div>
-                        <div class="swiper-slide brand-slider-item text-center">
-                            <a href="#"><img class=" img-fluid" src="assets/images/partner/4.png" alt="" /></a>
-                        </div>
+                    <?php
+                        include("include/partenaires.php");
+                    ?>
                     </div>
                 </div>
             </div>
@@ -122,142 +113,24 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="section-title text-center mb-30px0px">
-                            <h2 class="title">Latest Blog</h2>
-                            <p> There are many variations of passages of Lorem Ipsum available</p>
+                            <h2 class="title">Actualités Expert</h2>
+                            <p>Toutes nos informations et nos nouvelles configurations</p>
                         </div>
                     </div>
                 </div>
                 <!-- section title start -->
                 <div class="row">
-                    <div class="col-lg-6 col-sm-6 mb-xs-30px">
-                        <div class="single-blog">
-                            <div class="blog-image">
-                                <a href="blog-single-left-sidebar.html"><img src="assets/images/blog-image/1.webp" class="img-responsive w-100" alt=""></a>
-                            </div>
-                            <div class="blog-text">
-                                <div class="blog-athor-date line-height-1">
-                                    <span class="blog-date"><i class="fa fa-calendar" aria-hidden="true"></i> 27,Jun 2030</span>
-                                    <span><a class="blog-author" href="blog-grid.html"><i class="fa fa-user" aria-hidden="true"></i> Wild Nick</a></span>
-                                </div>
-                                <h5 class="blog-heading"><a class="blog-heading-link" href="blog-single-left-sidebar.html">10 Quick Tips About Smart Product</a></h5>
-                                <p>Lorem ipsum dolor sit amet consl adipisi elit, sed do eiusmod templ incididunt ut labore</p>
-                                <a href="blog-single-left-sidebar.html" class="btn btn-primary blog-btn"> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End single blog -->
-                    <div class="col-lg-6 col-sm-6">
-                        <div class="single-blog">
-                            <div class="blog-image">
-                                <a href="blog-single-left-sidebar.html"><img src="assets/images/blog-image/2.webp" class="img-responsive w-100" alt=""></a>
-                            </div>
-                            <div class="blog-text">
-                                <div class="blog-athor-date line-height-1">
-                                    <span class="blog-date"><i class="fa fa-calendar" aria-hidden="true"></i> 27,Jun 2030</span>
-                                    <span><a class="blog-author" href="blog-grid.html"><i class="fa fa-user" aria-hidden="true"></i> Oaklee Odom</a></span>
-                                </div>
-                                <h5 class="blog-heading"><a class="blog-heading-link" href="blog-single-left-sidebar.html">5 Real-Life Lessons About Smart Product</a></h5>
-                                <p>Lorem ipsum dolor sit amet consl adipisi elit, sed do eiusmod templ incididunt ut labore</p>
-                                <a href="blog-single-left-sidebar.html" class="btn btn-primary blog-btn"> Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End single blog -->
+                    <?php
+                        include("include/actualites.php");
+                    ?>
                 </div>
             </div>
         </div>
         <!-- Blog area end here -->
         <!-- Footer Area Start -->
-        <div class="footer-area">
-            <div class="footer-container">
-                <div class="footer-top">
-                    <div class="container">
-                        <div class="row">
-                            <!-- Start single blog -->
-                            <div class="col-md-6 col-lg-3 mb-md-30px mb-lm-30px">
-                                <div class="single-wedge">
-                                    <div class="footer-logo">
-                                        <a href="index.html"><img src="assets/images/logo/footer-logo.png" alt=""></a>
-                                    </div>
-                                    <p class="about-text">Lorem ipsum dolor sit amet consl adipisi elit, sed do eiusmod templ incididunt ut labore
-                                    </p>
-                                    <ul class="link-follow">
-                                        <li>
-                                            <a class="m-0" title="Twitter" target="_blank" rel="noopener noreferrer" href="#"><i class="fa fa-facebook"
-                                                aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a title="Tumblr" target="_blank" rel="noopener noreferrer" href="#"><i class="fa fa-tumblr" aria-hidden="true"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a title="Facebook" target="_blank" rel="noopener noreferrer" href="#"><i class="fa fa-twitter" aria-hidden="true"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a title="Instagram" target="_blank" rel="noopener noreferrer" href="#"><i class="fa fa-instagram" aria-hidden="true"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <!-- End single blog -->
-                            <!-- Start single blog -->
-                            <div class="col-md-6 col-lg-3 col-sm-6 mb-lm-30px pl-lg-60px">
-                                <div class="single-wedge">
-                                    <h4 class="footer-herading">Services</h4>
-                                    <div class="footer-links">
-                                        <div class="footer-row">
-                                            <ul class="align-items-center">
-                                                <li class="li"><a class="single-link" href="my-account.html">My Account</a></li>
-                                                <li class="li"><a class="single-link" href="contact.html">Contact</a></li>
-                                                <li class="li"><a class="single-link" href="cart.html">Shopping cart</a></li>
-                                                <li class="li"><a class="single-link" href="shop-left-sidebar.html">Shop</a></li>
-                                                <li class="li"><a class="single-link" href="login.html">Services Login</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End single blog -->
-                            <!-- Start single blog -->
-                            <div class="col-md-6 col-lg-3 col-sm-6 mb-lm-30px pl-lg-40px">
-                                <div class="single-wedge">
-                                    <h4 class="footer-herading">My Account</h4>
-                                    <div class="footer-links">
-                                        <div class="footer-row">
-                                            <ul class="align-items-center">
-                                                <li class="li"><a class="single-link" href="my-account.html">My Account</a></li>
-                                                <li class="li"><a class="single-link" href="contact.html">Contact</a></li>
-                                                <li class="li"><a class="single-link" href="cart.html">Shopping cart</a></li>
-                                                <li class="li"><a class="single-link" href="shop-left-sidebar.html">Shop</a></li>
-                                                <li class="li"><a class="single-link" href="login.html">Services Login</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End single blog -->
-                            <!-- Start single blog -->
-                            <div class="col-md-6 col-lg-3 col-sm-12">
-                                <div class="single-wedge">
-                                    <h4 class="footer-herading">Contact Info</h4>
-                                    <div class="footer-links">
-                                        <!-- News letter area -->
-                                        <p class="address">Address: Your Address Goes Here.</p>
-                                        <p class="phone">Phone/Fax:<a href="tel:0123456789"> 0123456789</a></p>
-                                        <p class="mail">Email:<a href="mailto:demo@example.com"> demo@example.com</a></p>
-                                        <p class="mail"><a href="https://demo@example.com"> demo@example.com</a></p>
-                                        <!-- News letter area  End -->
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End single blog -->
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <?php
+            include("include/footer.php");
+        ?>
         <!-- Footer Area End -->
     </div>
 
